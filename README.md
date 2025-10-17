@@ -225,8 +225,8 @@ The Flask API (Repository 2) responds with JSON:
 The Wise plugin extracts each key and encodes it as Arkime session fields.
 
 <p align="center">
-  <img src="images/1.png" alt="normal fields in Arkime" width="500">
-  <img src="images/12.png" alt="additional fields in Arkime" width="500">
+  <img src="images/1.jpg" alt="normal fields in Arkime" width="500">
+  <img src="images/1.jpg" alt="additional fields in Arkime" width="500">
 </p>
 
 ## 📚 Related Repositories
