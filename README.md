@@ -87,7 +87,6 @@ arkime-wise-integration/
 1. **Copy the plugin** into Arkime’s Wise directory:
    ```bash
    cp source.myService.js /opt/arkime/wiseService/
-````
 
 2. **Add configuration** to `/opt/arkime/etc/wise.ini`:
 
@@ -234,7 +233,3 @@ The Wise plugin extracts each key and encodes it as Arkime session fields.
 
 * [`netflow-observability-dashboard`](https://github.com/your-org/netflow-observability-dashboard)
 * [`network-data-pipeline`](https://github.com/your-org/network-data-pipeline)
-
-```
-
----
